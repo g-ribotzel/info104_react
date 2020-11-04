@@ -8,7 +8,7 @@ import { ProbandoInput } from "../components/ProbandoInput";
 export default function IndexPage() {
   return (
     <Stack spacing="45px" padding="10px">
-      <Heading>Hello World</Heading>
+      <Heading>Hello bruh</Heading>
       <ProbandoJavascript />
       <ProbandoAPI />
       <ProbandoListas />
